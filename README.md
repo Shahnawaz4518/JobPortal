@@ -35,7 +35,8 @@ A full-stack web application for job seekers and recruiters, built using the MER
 - **API Testing**: Postman
 - **Deployment**: (Add deployment details if any)
 
-  🌐 Live Project: [https://naukri-dekho.onrender.com/](https://naukri-dekho.onrender.com/)
+
+🌐 Live Project: [https://naukri-dekho.onrender.com/](https://naukri-dekho.onrender.com/)
 
 ---
 
